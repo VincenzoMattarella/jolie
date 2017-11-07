@@ -32,6 +32,7 @@ build/
 /extensions/javascript/nbproject/private/
 /extensions/local/nbproject/private/
 /lib/jolie-js/nbproject/private/
+/lib/jtracer/nbproject/private/
 /tools/jolie2surface/nbproject/private/
 /lib/xsom/build
 /jolie/.idea/workspace.xml
